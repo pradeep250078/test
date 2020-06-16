@@ -1,2 +1,3 @@
-# test
-This is test project
+# maven-project
+
+Simple Maven Project
